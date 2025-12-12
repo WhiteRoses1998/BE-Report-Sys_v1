@@ -1,0 +1,8 @@
+# ในไฟล์ .gitignore
+# นี่คือตัวอย่างพื้นฐาน:
+.env
+# อาจจะมี
+node_modules/
+dist/
+/build
+*.log
